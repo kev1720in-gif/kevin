@@ -1,0 +1,6 @@
+{
+  "name": "K-Imagen",
+  "description": "Gestor minimalista de imágenes y videos con interfaz de vidrio polarizado rojo y negro, línea de tiempo, bóveda con contraseña, papelera y copia de seguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

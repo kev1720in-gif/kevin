@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">K-Imagen</string>
+    <string name="nav_gallery">Galería</string>
+    <string name="nav_folders">Carpetas</string>
+    <string name="nav_vault">Ocultos</string>
+    <string name="nav_trash">Papelera</string>
+    <string name="nav_backup">Respaldo</string>
+</resources>
